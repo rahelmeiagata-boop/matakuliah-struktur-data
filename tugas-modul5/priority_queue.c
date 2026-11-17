@@ -78,7 +78,7 @@ void tampil()
     int i;
     if (isEmpty())
     {
-        printf("Antrean ksong\n");
+        printf("Antrean kosong\n");
     }
     else
     {
